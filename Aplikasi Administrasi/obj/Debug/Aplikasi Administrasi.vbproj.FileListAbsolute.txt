@@ -1,0 +1,159 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Golongan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Guru.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Jabatan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Login.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.MenuUtama.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Petugas.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Potongan.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Kelas.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Tahunajaran.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Siswa.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataGuru.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataSiswa.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Interop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\AxInterop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Interop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\AxInterop.Crystal.dll
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.ResolveComReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSPP.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiGaji.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiSPP.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGaji.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGuru.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSiswa.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanMaster.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Interop.Crystal.dll
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\AxInterop.Crystal.dll
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.ResolveComReference.cache
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.exe
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.xml
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.pdb
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.pdb
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.xml
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Interop.Crystal.dll
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\AxInterop.Crystal.dll
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataGuru.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataSiswa.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGuru.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanMaster.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiGaji.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiSPP.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGaji.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSiswa.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSPP.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.MenuUtama.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Golongan.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Guru.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Jabatan.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Kelas.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Login.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Resources.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Petugas.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Potongan.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Siswa.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Tahunajaran.resources
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.GenerateResource.Cache
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.cache
+D:\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.compiled
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.ResolveComReference.cache
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.exe
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.xml
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.pdb
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataGuru.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataSiswa.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGuru.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanMaster.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiGaji.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiSPP.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGaji.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSiswa.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSPP.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.MenuUtama.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Golongan.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Guru.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Jabatan.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Kelas.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Login.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Resources.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Petugas.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Potongan.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Siswa.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Tahunajaran.resources
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.GenerateResource.Cache
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.cache
+C:\Users\Annisa\Downloads\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.compiled
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.ResolveComReference.cache
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.exe
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.xml
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Telegram Desktop\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.pdb
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.ResolveComReference.cache
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.xml
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.pdb
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataGuru.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataSiswa.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGuru.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanMaster.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiGaji.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiSPP.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGaji.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSiswa.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSPP.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.MenuUtama.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Golongan.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Guru.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Jabatan.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Kelas.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Login.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Resources.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Petugas.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Potongan.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Siswa.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Tahunajaran.resources
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.GenerateResource.Cache
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.cache
+C:\Users\Annisa\OneDrive\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.compiled
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\bin\Debug\Aplikasi Administrasi.exe.config
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.ResolveComReference.cache
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.exe
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.xml
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.pdb
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataGuru.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.DataSiswa.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGuru.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanMaster.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiGaji.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.TransaksiSPP.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanGaji.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSiswa.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.LaporanSPP.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.MenuUtama.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Golongan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Guru.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Jabatan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Kelas.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Login.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Resources.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Petugas.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Potongan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Siswa.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi_Administrasi.Tahunajaran.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\Aplikasi Administrasi.vbproj.GenerateResource.Cache
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.cache
+C:\Users\Annisa\Documents\Visual Studio 2012\KP 3\Aplikasi Administrasi\Aplikasi Administrasi\obj\Debug\RdlCompile.compiled

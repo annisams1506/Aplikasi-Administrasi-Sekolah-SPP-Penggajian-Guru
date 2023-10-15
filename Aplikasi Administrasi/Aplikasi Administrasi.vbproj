@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{791C739C-4227-4C5D-B5E4-56C9EE2794BD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplikasi_Administrasi.My.MyApplication</StartupObject>
+    <RootNamespace>Aplikasi_Administrasi</RootNamespace>
+    <AssemblyName>Aplikasi Administrasi</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi Administrasi.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi Administrasi.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataGuru.Designer.vb">
+      <DependentUpon>DataGuru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataGuru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSiswa.Designer.vb">
+      <DependentUpon>DataSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanGuru.Designer.vb">
+      <DependentUpon>LaporanGuru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanGuru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanMaster.Designer.vb">
+      <DependentUpon>LaporanMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiGaji.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiGaji.Designer.vb">
+      <DependentUpon>TransaksiGaji.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiSPP.Designer.vb">
+      <DependentUpon>TransaksiSPP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiSPP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanGaji.Designer.vb">
+      <DependentUpon>LaporanGaji.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanGaji.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanSiswa.Designer.vb">
+      <DependentUpon>LaporanSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanSiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LaporanSPP.Designer.vb">
+      <DependentUpon>LaporanSPP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LaporanSPP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUtama.Designer.vb">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Golongan.Designer.vb">
+      <DependentUpon>Golongan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Golongan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guru.Designer.vb">
+      <DependentUpon>Guru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Guru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jabatan.Designer.vb">
+      <DependentUpon>Jabatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Jabatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kelas.Designer.vb">
+      <DependentUpon>Kelas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kelas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Petugas.Designer.vb">
+      <DependentUpon>Petugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Petugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Potongan.Designer.vb">
+      <DependentUpon>Potongan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Potongan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Siswa.Designer.vb">
+      <DependentUpon>Siswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Siswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tahunajaran.Designer.vb">
+      <DependentUpon>Tahunajaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tahunajaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DataGuru.resx">
+      <DependentUpon>DataGuru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataSiswa.resx">
+      <DependentUpon>DataSiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanGuru.resx">
+      <DependentUpon>LaporanGuru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanMaster.resx">
+      <DependentUpon>LaporanMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiGaji.resx">
+      <DependentUpon>TransaksiGaji.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiSPP.resx">
+      <DependentUpon>TransaksiSPP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanGaji.resx">
+      <DependentUpon>LaporanGaji.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanSiswa.resx">
+      <DependentUpon>LaporanSiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LaporanSPP.resx">
+      <DependentUpon>LaporanSPP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUtama.resx">
+      <DependentUpon>MenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Golongan.resx">
+      <DependentUpon>Golongan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guru.resx">
+      <DependentUpon>Guru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jabatan.resx">
+      <DependentUpon>Jabatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kelas.resx">
+      <DependentUpon>Kelas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Petugas.resx">
+      <DependentUpon>Petugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Potongan.resx">
+      <DependentUpon>Potongan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Siswa.resx">
+      <DependentUpon>Siswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tahunajaran.resx">
+      <DependentUpon>Tahunajaran.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxCrystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Crystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user pngwave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1www.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5a991c82be987_thumb900.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ClipartKey_2495211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dd8b8502e6409e786b8834945a34ccf9-school-books-stroke-icon-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GAJI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-icons-teacher-icon-design-education-png-favpng-rr8Szx9bw88bwS8S8HtcKpCyL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FAVPNG_teacher-icon-design-education_jBcr7Lwu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golongan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-learning-management-system-educational-technology-meeting-background-5ad9482d666f93.6695709215241892294196.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-rounded-left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\106378_exit_512x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\126-1268278_faqs-for-students-college-student-students-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\School_study_education_studen-12-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist-icon-3501-300x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gol1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist-icon-3501-300x3001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\215-2151117_slip-gaji-icon-png-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aplikasi-Mobile-Karyawan-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line-png-16805.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinepngtools %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagesSS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-3-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-3-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

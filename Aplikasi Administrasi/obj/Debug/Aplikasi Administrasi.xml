@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AplikasiAdministrasi
+</name>
+</assembly>
+<members>
+<member name="P:Aplikasi_Administrasi.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources._106378_exit_512x512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources._126_1268278_faqs_for_students_college_student_students_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources._1www">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources._215_2151117_slip_gaji_icon_png_transparent_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources._5a991c82be987_thumb900">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources._exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.Aplikasi_Mobile_Karyawan_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.checklist_icon_3501_300x300">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.checklist_icon_3501_300x3001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.ClipartKey_2495211">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.computer_icons_teacher_icon_design_education_png_favpng_rr8Szx9bw88bwS8S8HtcKpCyL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.dd8b8502e6409e786b8834945a34ccf9_school_books_stroke_icon_by_vexels">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.download__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.exit1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.FAVPNG_teacher_icon_design_education_jBcr7Lwu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.file1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.GAJI">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.gol">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.gol1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.golongan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.guru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.imagesSS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.kisspng_learning_management_system_educational_technology_meeting_background_5ad9482d666f93_6695709215241892294196">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.line_png_16805">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.logout_rounded_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.output_onlinepngtools">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.output_onlinepngtools__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.password">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.person">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.report_3_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.report_3_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.School_study_education_studen_12_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.SPP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.team">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.unnamed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.user_pngwave">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Administrasi.My.Resources.Resources.y">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Aplikasi_Administrasi.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
